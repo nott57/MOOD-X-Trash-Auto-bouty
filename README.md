@@ -1,2 +1,4 @@
-# MOOD-X-Trash-Auto-bouty
-ez
+game.Players.LocalPlayer:kick("epicccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc")
+wait(1)
+game:Shutdown()
+end
